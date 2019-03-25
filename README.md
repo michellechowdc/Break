@@ -19,5 +19,5 @@ Overall we’re proud that we were just able to get a Chrome Extension working a
 # What we learned
 Through this experience of creating a Chrome Extension, we firstly learned how to create browser extensions. We used JSON for the first time to create the manifest file necessary to make this a workable extension. From there we learned a lot about the importance of persistence, constantly having to debug our code because of inexperience and to get around Chrome’s many limitations.
 
-# What's next for </Break>
-In the future, we hope get </Break> up and fully functioning to help prevent the greater community from developing health issues. Firstly we would fix the challenges mentioned earlier, adding a background and a better looking notification. Later on, we hope to connect our extension with data from local weather and events to remind users to go outside and see the sunset or head out for the parade that day.
+# What's next for Break
+In the future, we hope get Break up and fully functioning to help prevent the greater community from developing health issues. Firstly we would fix the challenges mentioned earlier, adding a background and a better looking notification. Later on, we hope to connect our extension with data from local weather and events to remind users to go outside and see the sunset or head out for the parade that day.
