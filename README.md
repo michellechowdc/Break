@@ -1,7 +1,7 @@
 # Break
 Take a Break! Sitting at a computer for long periods of time is harmful to your health.
 
-# Inspiration
+## Inspiration
 The use of tech in our everyday lives are increasing, as a result people today are less involved with physical activities and in-person social interactions than ever before, leading to a rise in health complications and mental issues.  Glued to their screens, rates in obesity, anxiety, and depression have steadily increased. A simple reminder to get up and step outside  may encourage a change in these habits. 
 
 # What it does
