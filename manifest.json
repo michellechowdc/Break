@@ -1,0 +1,12 @@
+{
+ "manifest_version": 2,
+ "name": "</Break>",
+ "description": "Take a Break! Staring at a screen for long periods of time can be harmful to your eyes. Sitting at a desk for long periods of time can be harmful to your body.Use </Break> to remind you to take breaks! Get up and grab some food, go outside, or read a book!",
+ "version": "1.0",
+ "author": "Michelle^2",
+ "browser_action": {
+   "default_icon": "BreakLogo.png",
+   "default_title": "</Break>",
+   "default_popup": "popup.html"
+ }
+}
